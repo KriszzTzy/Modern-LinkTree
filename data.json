@@ -32,9 +32,9 @@
         }
     ],
     "music": {
-        "title": "五等分の気持ち",
-        "artist": "Nakanoke no Itsutsugo",
-        "albumArt": "https://cloudkuimages.guru/uploads/images/6813180dc96ae.jpg",
+        "title": "Bernafas Tanpamu",
+        "artist": "Last Child",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27366fa138977d490a6c9685eb2",
         "audioFile": "https://api.fabdl.com/spotify/download-mp3/3120d8081cea9035ddd1fb93776bcd43", 
         "duration": 267,
         "timeSync": [
@@ -105,5 +105,6 @@
         ]
     }
 }
+
 
 

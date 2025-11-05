@@ -39,17 +39,8 @@
         "duration": 267,
         "timeSync": [
             { "time": 0, "text": "フータローくん?\n(Fuutarou?)" },
-            { "time": 1.38, "text": "上杉起きなさいよ?\n(Bangun dong Uesugi!)" },
-            { "time": 2.87, "text": "フータロ\n(Fuutaro)" },
-            { "time": 3.28, "text": "上杉さん\n(Uesugi-san)" },
-            { "time": 3.91, "text": "上杉君起きて?\n(Uesugi-kun, bangun ya?)" },
-            { "time": 6.22, "text": "喜びも (喜びも)\n(Kebahagiaan juga, kebahagiaan juga)" },
-            { "time": 9.12, "text": "悲しみも (悲しみも)\n(Kesedihan juga, kesedihan juga)" },
-            { "time": 11.72, "text": "あなたさえ\n(Bahkan kamu)" },
-            { "time": 14.46, "text": "五等分なんです\n(Kubagi jadi lima bagian)" },
-            { "time": 28.36, "text": "ひとつ 作り笑いも見抜かれ\n(Satu, bahkan senyum palsuku kau lihat)" },
-            { "time": 31.18, "text": "ふたつ あんたなんか大嫌いよ\n(Dua, aku sangat benci padamu)" },
-            { "time": 34.09, "text": "みっつまっすぐなこの気持ち\n(Tiga, perasaan tulusku ini)" },
+            { "time": 31.18, "text": "Kini ku harus bernafas tanpamu" },
+            { "time": 31.24, "text": "Yang meninggikan diriku yang selalu" },
             { "time": 37.62, "text": "気づいて\n(Kumohon sadarlah)" },
             { "time": 39.25, "text": "よおつ 気がつくとだんだん\n(Empat, tanpa sadar sedikit demi sedikit)" },
             { "time": 41.92, "text": "いつつ わかりあえたね\n(Lima, kita mulai saling memahami)" },
@@ -105,6 +96,7 @@
         ]
     }
 }
+
 
 
 

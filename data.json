@@ -35,7 +35,7 @@
         "title": "五等分の気持ち",
         "artist": "Nakanoke no Itsutsugo",
         "albumArt": "https://cloudkuimages.guru/uploads/images/6813180dc96ae.jpg",
-        "audioFile": "https://linktree.flowfalcon.xyz/m2.mp3", 
+        "audioFile": "https://api.fabdl.com/spotify/download-mp3/3120d8081cea9035ddd1fb93776bcd43", 
         "duration": 267,
         "timeSync": [
             { "time": 0, "text": "フータローくん?\n(Fuutarou?)" },
@@ -105,3 +105,4 @@
         ]
     }
 }
+
